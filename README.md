@@ -9,4 +9,4 @@ This project contains a Twine narrative that is hosted on GitHub Pages.
 
 You can interact with the narrative from the link below:
 
-[Link Text][(https://github.com/<username>/<repository-name>/blob/main/<file-name>)](https://github.com/vrg0311/NotableWomen/blob/main/NWindex.html)
+[(https://github.com/<username>/<repository-name>/blob/main/<file-name>)](https://github.com/vrg0311/NotableWomen/blob/main/NWindex.html)

@@ -1,2 +1,12 @@
 # NotableWomen
-This is my Twine project about notable women connected to the English Throne in Tudor England
+
+Welcome to my Twine Story project!
+
+## Project Overview
+This project contains a Twine narrative that is hosted on GitHub Pages.
+
+## Download the Files
+
+You can interact with the narrative from the link below:
+
+[Link Text][(https://github.com/<username>/<repository-name>/blob/main/<file-name>)](https://github.com/vrg0311/NotableWomen/blob/main/NWindex.html)
